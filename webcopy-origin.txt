@@ -1,0 +1,356 @@
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&subset=latin,cyrillic
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://smirnova-nail-education.ru/pro-gel
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\pro-gel.html
+Content Type: text/html
+
+Uri: https://smirnova-nail-education.ru/tilda-blocks-page40216465.min.css?t=1697750149
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tilda-blocks-page40216465.min.css
+Content Type: text/css
+
+Uri: https://smirnova-nail-education.ru/tilda-blocks-page40216465.min.js?t=1697750149
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tilda-blocks-page40216465.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-cards-1.0.min.css
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\css\tilda-cards-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-cart-1.0.min.css
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\css\tilda-cart-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/img/tildacopy.png
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\img\tildacopy.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/img/tildafavicon.ico
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\img\tildafavicon.ico
+Content Type: image/x-icon
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/lazyload-1.3.min.js
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\js\lazyload-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cards-1.0.min.js
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\js\tilda-cards-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cart-1.0.min.js
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\js\tilda-cart-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menu-1.0.min.js
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\js\tilda-menu-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-promocode-1.0.min.js
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\js\tilda-promocode-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-skiplink-1.0.min.js
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\js\tilda-skiplink-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-scale-1.0.min.js
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3030-3333-4830-b065-633461643838/-/resizeb/20x/IMG_9576.PNG
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3030-3333-4830-b065-633461643838\-\resizeb\20x\IMG_9576.PNG
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3034-6263-4861-a434-353833303963/-/resizeb/20x/IMG_8153.PNG
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3034-6263-4861-a434-353833303963\-\resizeb\20x\IMG_8153.PNG
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3063-6564-4339-b966-613664336631/-/resizeb/20x/IMG_7315.PNG
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3063-6564-4339-b966-613664336631\-\resizeb\20x\IMG_7315.PNG
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3066-6435-4464-b534-666666336630/-/resizeb/20x/IMG_9621.PNG
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3066-6435-4464-b534-666666336630\-\resizeb\20x\IMG_9621.PNG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3133-3533-4439-a163-323261393334/-/resizeb/20x/IMG_4089.PNG
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3133-3533-4439-a163-323261393334\-\resizeb\20x\IMG_4089.PNG
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3134-3162-4538-b963-353662643735/-/resizeb/20x/IMG_0395.PNG
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3134-3162-4538-b963-353662643735\-\resizeb\20x\IMG_0395.PNG
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3237-3139-4366-b835-643932666365/_new__.svg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3237-3139-4366-b835-643932666365\_new__.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3238-3539-4866-b465-326530646238/-/resizeb/20x/photo_2021-02-05_140.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3238-3539-4866-b465-326530646238\-\resizeb\20x\photo_2021-02-05_140.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3264-3464-4135-b561-323163666430/IMG_1038.JPG
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3264-3464-4135-b561-323163666430\IMG_1038.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3265-3462-4065-b765-663432343536/-/resizeb/20x/photo_2021-02-05_140.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3265-3462-4065-b765-663432343536\-\resizeb\20x\photo_2021-02-05_140.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3266-3161-4835-a264-336663303861/-/resizeb/20x/photo_2021-06-16_184.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3266-3161-4835-a264-336663303861\-\resizeb\20x\photo_2021-06-16_184.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3266-3534-4138-a465-616332383239/-/resizeb/20x/IMG_9109.PNG
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3266-3534-4138-a465-616332383239\-\resizeb\20x\IMG_9109.PNG
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3436-3537-4866-b831-663061393230/-/resizeb/20x/IMG_0137.PNG
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3436-3537-4866-b831-663061393230\-\resizeb\20x\IMG_0137.PNG
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3438-6663-4535-b439-363132613134/-/resizeb/20x/photo_2021-02-05_140.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3438-6663-4535-b439-363132613134\-\resizeb\20x\photo_2021-02-05_140.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3439-6438-4131-a433-303062336135/-/resizeb/20x/3492B444-3D08-4E29-8.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3439-6438-4131-a433-303062336135\-\resizeb\20x\3492B444-3D08-4E29-8.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3462-3838-4462-b531-376561613337/-/empty/D0BDD0B020D181D0B0D0.png
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3462-3838-4462-b531-376561613337\-\empty\D0BDD0B020D181D0B0D0.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3530-3863-4833-a338-383431383035/-/resizeb/20x/IMG_7535.PNG
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3530-3863-4833-a338-383431383035\-\resizeb\20x\IMG_7535.PNG
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3636-3632-4836-b231-383136636464/-/resizeb/20x/IMG_8482.PNG
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3636-3632-4836-b231-383136636464\-\resizeb\20x\IMG_8482.PNG
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3661-3961-4337-b830-373132353666/-/resizeb/20x/photo_2021-02-05_140.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3661-3961-4337-b830-373132353666\-\resizeb\20x\photo_2021-02-05_140.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3662-6234-4733-b831-633763323335/-/resizeb/20x/IMG_8059.PNG
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3662-6234-4733-b831-633763323335\-\resizeb\20x\IMG_8059.PNG
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3733-3365-4238-b734-353265343938/-/resizeb/20x/photo_2021-07-19_133.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3733-3365-4238-b734-353265343938\-\resizeb\20x\photo_2021-07-19_133.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3735-3935-4335-a566-653930643939/-/resizeb/20x/photo_2021-02-05_141.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3735-3935-4335-a566-653930643939\-\resizeb\20x\photo_2021-02-05_141.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3766-6334-4032-b565-663739653562/-/resizeb/20x/603043DE-1EFB-46A7-9.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3766-6334-4032-b565-663739653562\-\resizeb\20x\603043DE-1EFB-46A7-9.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3866-3464-4533-b234-353439326639/-/resizeb/20x/photo_2021-07-19_132.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3866-3464-4533-b234-353439326639\-\resizeb\20x\photo_2021-07-19_132.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3933-6635-4531-a536-386365346666/-/resizeb/20x/IMG_6171.PNG
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3933-6635-4531-a536-386365346666\-\resizeb\20x\IMG_6171.PNG
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3939-3661-4239-b433-396166316135/-/resizeb/20x/photo_2021-02-05_140.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3939-3661-4239-b433-396166316135\-\resizeb\20x\photo_2021-02-05_140.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3939-6164-4130-b262-323165363664/-/resizeb/20x/photo_2021-07-19_132.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3939-6164-4130-b262-323165363664\-\resizeb\20x\photo_2021-07-19_132.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3966-3935-4138-b864-383433376538/-/resizeb/20x/photo_2021-02-05_140.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild3966-3935-4138-b864-383433376538\-\resizeb\20x\photo_2021-02-05_140.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6139-3065-4163-b238-303435663031/-/resizeb/20x/photo_2021-02-05_140.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6139-3065-4163-b238-303435663031\-\resizeb\20x\photo_2021-02-05_140.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6165-6564-4161-b633-613236386536/-/resizeb/20x/photo_2021-02-05_140.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6165-6564-4161-b633-613236386536\-\resizeb\20x\photo_2021-02-05_140.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6232-3138-4163-a533-323831353132/-/resizeb/20x/IMG_8150.PNG
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6232-3138-4163-a533-323831353132\-\resizeb\20x\IMG_8150.PNG
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6232-3166-4536-b434-343635666230/-/resizeb/20x/photo_2021-02-05_140.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6232-3166-4536-b434-343635666230\-\resizeb\20x\photo_2021-02-05_140.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6233-3661-4062-b634-356131663137/-/resizeb/20x/photo_2021-06-16_184.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6233-3661-4062-b634-356131663137\-\resizeb\20x\photo_2021-06-16_184.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6234-3736-4733-b837-626635376632/01DE7600-54B0-4D59-A.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6234-3736-4733-b837-626635376632\01DE7600-54B0-4D59-A.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6234-6134-4162-b963-396139613732/-/resizeb/20x/F6D5333A-A903-468D-B.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6234-6134-4162-b963-396139613732\-\resizeb\20x\F6D5333A-A903-468D-B.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6235-3662-4432-b534-303630666337/-/resizeb/20x/photo_2021-06-16_141.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6235-3662-4432-b534-303630666337\-\resizeb\20x\photo_2021-06-16_141.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6237-3536-4837-b836-626361653436/-/resizeb/20x/photo_2021-07-19_133.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6237-3536-4837-b836-626361653436\-\resizeb\20x\photo_2021-07-19_133.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6237-3862-4138-b330-633964326231/-/resizeb/20x/photo_2021-06-16_141.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6237-3862-4138-b330-633964326231\-\resizeb\20x\photo_2021-06-16_141.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6237-6162-4339-a665-336264316236/-/resizeb/20x/photo_2021-02-05_140.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6237-6162-4339-a665-336264316236\-\resizeb\20x\photo_2021-02-05_140.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6239-3835-4431-b866-363363363439/-/resizeb/20x/photo_2021-07-19_132.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6239-3835-4431-b866-363363363439\-\resizeb\20x\photo_2021-07-19_132.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6263-6665-4134-b630-623939316561/-/resizeb/20x/IMG_8497.PNG
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6263-6665-4134-b630-623939316561\-\resizeb\20x\IMG_8497.PNG
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6264-6265-4862-a435-396634396138/-/resizeb/20x/photo_2021-02-05_140.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6264-6265-4862-a435-396634396138\-\resizeb\20x\photo_2021-02-05_140.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6264-6435-4735-b064-323434666233/-/resizeb/20x/7FF6BF62-E941-4DD0-8.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6264-6435-4735-b064-323434666233\-\resizeb\20x\7FF6BF62-E941-4DD0-8.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6332-6665-4435-b939-343336353932/-/resizeb/20x/photo_2021-02-05_140.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6332-6665-4435-b939-343336353932\-\resizeb\20x\photo_2021-02-05_140.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6334-3061-4231-b331-666264656331/-/resizeb/20x/IMG_7391.PNG
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6334-3061-4231-b331-666264656331\-\resizeb\20x\IMG_7391.PNG
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6361-6263-4731-b936-653232633836/-/resizeb/20x/IMG_8380.PNG
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6361-6263-4731-b936-653232633836\-\resizeb\20x\IMG_8380.PNG
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6434-3866-4638-a363-393734383830/-/resizeb/20x/IMG_9278.PNG
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6434-3866-4638-a363-393734383830\-\resizeb\20x\IMG_9278.PNG
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6436-3036-4165-b061-353264356136/-/resizeb/20x/51413C71-684F-418A-8.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6436-3036-4165-b061-353264356136\-\resizeb\20x\51413C71-684F-418A-8.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6436-3038-4937-b039-666662616236/-/resizeb/20x/IMG_8384.PNG
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6436-3038-4937-b039-666662616236\-\resizeb\20x\IMG_8384.PNG
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6461-3832-4338-b562-396561306365/-/resizeb/20x/IMG_8058.PNG
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6461-3832-4338-b562-396561306365\-\resizeb\20x\IMG_8058.PNG
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6461-6139-4237-b461-356131383434/-/resizeb/20x/922831CC-AA16-4D4E-A.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6461-6139-4237-b461-356131383434\-\resizeb\20x\922831CC-AA16-4D4E-A.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6464-6534-4538-a132-313533353136/-/resizeb/20x/photo_2021-06-16_142.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6464-6534-4538-a132-313533353136\-\resizeb\20x\photo_2021-06-16_142.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6531-6238-4431-b862-353664663232/-/resizeb/20x/photo_2021-06-16_141.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6531-6238-4431-b862-353664663232\-\resizeb\20x\photo_2021-06-16_141.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6630-6132-4934-b836-373263396236/-/resizeb/20x/photo_2021-06-16_142.jpeg
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6630-6132-4934-b836-373263396236\-\resizeb\20x\photo_2021-06-16_142.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6630-6539-4063-a261-336237386535/-/resizeb/20x/IMG_0639.PNG
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6630-6539-4063-a261-336237386535\-\resizeb\20x\IMG_0639.PNG
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6665-3534-4537-a538-386135613132/-/resizeb/20x/IMG_9926.PNG
+File Name: C:\Downloaded Web Sites\smirnova-nail-education.ru\tild6665-3534-4537-a538-386135613132\-\resizeb\20x\IMG_9926.PNG
+Content Type: image/png
+
